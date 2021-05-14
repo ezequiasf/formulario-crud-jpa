@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label prefHeight="39.0" prefWidth="90.0" text="About" textFill="#da1212">
+         <font>
+            <Font name="FreeSerif" size="29.0" />
+         </font>
+         <VBox.margin>
+            <Insets left="20.0" top="10.0" />
+         </VBox.margin>
+      </Label>
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec felis justo, luctus non rhoncus at, consequat in magna. In gravida, purus ac pharetra euismod, tortor eros egestas sem, quis mattis ante lorem nec neque. Donec at tellus vitae ipsum ultrices efficitur a at libero. Phasellus iaculis arcu eu magna pulvinar posuere. Donec commodo, justo et pharetra faucibus, diam lorem molestie mi, nec pulvinar massa mi a ante. Quisque dignissim neque a congue luctus. Maecenas in elementum tortor, vitae maximus ipsum. Integer at commodo justo. " wrappingWidth="552.65966796875">
+         <VBox.margin>
+            <Insets left="20.0" />
+         </VBox.margin>
+         <font>
+            <Font name="System Italic" size="13.0" />
+         </font>
+      </Text>
+   </children>
+</VBox>
